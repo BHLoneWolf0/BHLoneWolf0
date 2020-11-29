@@ -9,3 +9,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: i am cool
 
 ![LoneWolf's github stats](https://github-readme-stats.vercel.app/api?username=BHLoneWolf0&show_icons=true&theme=radical)
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/w9zfh5e8ligbmc94rydq8m390)
