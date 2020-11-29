@@ -8,6 +8,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [my discord server](https://discord.gg/egK9MuTgcP)
 - ⚡ Fun fact: i am cool
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BHLoneWolf0&hide=TeX&layout=compact)
+
 ![LoneWolf's github stats](https://github-readme-stats.vercel.app/api?username=BHLoneWolf0&show_icons=true&theme=radical)
 
 ## ⚡ Programming languages
@@ -17,6 +20,5 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BHLoneWolf0&hide=TeX&layout=compact)
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/w9zfh5e8ligbmc94rydq8m390)
