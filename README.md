@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [my discord server](https://discord.gg/egK9MuTgcP)
 - ⚡ Fun fact: i am cool
 
-
+![LoneWolf's github stats](https://github-readme-stats.vercel.app/api?username=BHLoneWolf0&show_icons=true&theme=radical)
