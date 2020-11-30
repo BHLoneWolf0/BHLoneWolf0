@@ -11,8 +11,10 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BHLoneWolf0&hide=TeX&layout=compact)
 
-![LoneWolf's github stats](https://github-readme-stats.vercel.app/api?username=BHLoneWolf0&show_icons=true&theme=radical)
-
+<details>
+    <summary>:zap: Github Stats</summary>
+    <img align="left" alt="BHLoneWolf0's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=BHLoneWolf0&show_icons=true&hide_border=true&theme=dark"/>
+</details>
 ## ⚡ Programming languages
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
