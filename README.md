@@ -15,6 +15,7 @@ Here are some ideas to get you started:
     <summary>:zap: Github Stats</summary>
     <img align="left" alt="BHLoneWolf0's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=BHLoneWolf0&show_icons=true&hide_border=true&theme=dark"/>
 </details>
+
 ## ⚡ Programming languages
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
