@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/w9zfh5e8ligbmc94rydq8m390)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](<iframe src="https://open.spotify.com/embed/album/1ANaxJNBcbOvvycNL4MCL5" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>)
