@@ -24,4 +24,3 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
 
-![Spotify](https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5?si=nnEeU8AJSkOHKaVKZohG1w)
