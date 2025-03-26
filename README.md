@@ -1,6 +1,3 @@
-# How to reach me
-![](https://discord.c99.nl/widget/theme-1/762389349676613693.png)
-
 # About me
 
 Am currently learning C++ & Reverse Engineering
